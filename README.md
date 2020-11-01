@@ -1,6 +1,6 @@
 # Memoji Friendgraph
 
-The idea was to create a simple, undirected, graph of some of my friends in the CS, ITI, and Engineering communities. I wanted a way to visually represent my semi-professional `network` of people in the form of a fun project. You can view a [live demo](www.kelcimensah.dev/projects/friendgraph) to see how it looks.
+The idea was to create a simple, undirected, graph of some of my friends in the CS, ITI, and Engineering communities. I wanted a way to visually represent my semi-professional `network` of people in the form of a fun project. You can view a [live demo](https://www.kelcimensah.dev/projects/friendgraph) to see how it looks.
 
 ![Kelci's Memoji Friendgraph](https://github.com/k3nsah/memoji-friendgraph/blob/main/friendgraph%20screenshot.png)
 
